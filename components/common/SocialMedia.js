@@ -82,7 +82,7 @@ export default class SocialMedia extends React.Component {
               </p>
               <div className="d-flex">
                 <a
-                  href="/about"
+                  href="https://instagram.com/shofrica/"
                   className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black"
                 >
                   <p className="mr-3">Follow us</p>
