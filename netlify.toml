@@ -6,4 +6,4 @@
   package = "netlify-plugin-onboarding"
 
 [template.environment]
-  NEXT_PUBLIC_CHEC_PUBLIC_KEY = "Chec Public Key (under Setup > Developer)"
+  NEXT_PUBLIC_CHEC_PUBLIC_KEY = "pk_2306936d1f32912116a05e59c515a30d39dd2ad808ac1"
