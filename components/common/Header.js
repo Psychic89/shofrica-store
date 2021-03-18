@@ -206,7 +206,7 @@ class Header extends Component {
       <Link href="/appointment">
       <a href="/appointment" className="mr-4 font-color-black">Virtual Appointment</a>
       </Link>
-    <Link href="/press">
+    <Link href="/clean-fashion">
       <a href="/clean-fashion" className="mr-4 font-color-black">Sustainability</a>
       </Link>
             <Link href="/about">
