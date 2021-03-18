@@ -14,7 +14,6 @@ class MyApp extends App {
     super(props);
 
     // If using Stripe, initialise it here. This allows Stripe to track behaviour
-    // as much as possible in order to determine fraud risk.
     this.stripePromise = null;
     if (process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY) { // has API key
         this.stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY);

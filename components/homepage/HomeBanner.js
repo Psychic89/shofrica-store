@@ -8,7 +8,7 @@ export default function HomeBanner() {
         className="font-size-display1 mt-5 text-center mx-auto text-uppercase"
         style={{ maxWidth: '53rem' }}
       >
-  We make luxury shopping effortless. Take the quiz, meet your stylist, try your jewelry at home, keep what you love.
+  Take the quiz, meet your stylist, try your jewelry at home, keep what you love.
       </p>
       <div className="d-flex align-items-center justify-content-center mt-3 mb-5">
         <Link href="/about">

@@ -86,16 +86,17 @@ const Footer = () => (
           <p className="font-family-secondary font-size-display1 mb-3">
             Newsletter
           </p>
-          <p>Insider info on new arrivals, early access, and everything fine. </p>
+          <p>Be the first to know about product launches, events, tutorials and all things Shofrica. Plus, for a limited time, receive 10% off your first purchase! </p>
           <div className="position-relative">
             <input
               className="borderbottom border-color-gray400 h-48 w-100 px-3"
-              placeholder="Your email"
+              placeholder="Enter your email address"
             />
             <button className="bg-transparent position-absolute right-0 top-50 translateY--50 pr-2 h-48">
               <img src="/icon/arrow-long-right.svg" className="w-24" alt="Arrow icon"/>
             </button>
-          </div>
+  <p>By signing up, you accept the terms of Shofrica's <a href="https://shofrica.com/privacy" target="_blank" className="cjs-link" rel="noopener noreferrer">privacy policy</a>!</p>
+</div>
         </div>
       </div>
     </div>

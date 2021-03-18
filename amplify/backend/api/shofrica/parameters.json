@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "shofrica",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authshofrica70d3ae80",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
