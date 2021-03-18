@@ -38,7 +38,7 @@ const mobileMenuLinks = [
   },
   {
     name: 'Virtual Appointment',
-    link: '/press'
+    link: '/appointment'
   },
   {
     name: 'Sustainability',
