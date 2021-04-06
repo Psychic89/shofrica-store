@@ -78,14 +78,14 @@ export default class SocialMedia extends React.Component {
                 className="font-size-display1 mb-3"
                 style={{ maxWidth: '26rem' }}
               >
-                Follow us on Instagram for more updates
+                Get Inspired
               </p>
               <div className="d-flex">
                 <a
                   href="https://instagram.com/shofrica/"
                   className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black"
                 >
-                  <p className="mr-3">Follow us</p>
+                  <p className="mr-3">SHOP INSTA</p>
                   <img src="/icon/arrow-long-right.svg" alt="Arrow icon"/>
                 </a>
               </div>

@@ -33,16 +33,8 @@ const mobileMenuLinks = [
     link: '/collection'
   },
   {
-    name: 'Designers',
-    link: '/designers'
-  },
-  {
-    name: 'Virtual Appointment',
-    link: '/appointment'
-  },
-  {
-    name: 'Sustainability',
-    link: '/clean-fashion'
+    name: 'Gift Guide',
+    link: '/giftguide'
   },
   {
     name: 'About',
@@ -200,16 +192,10 @@ class Header extends Component {
             <Link href="/collection">
               <a href="/collection" className="mr-4 font-color-black">Shop</a>
             </Link>
-      <Link href="/designers">
-      <a href="/designers" className="mr-4 font-color-black">Designers</a>
+      <Link href="/giftguide">
+      <a href="/giftguide" className="mr-4 font-color-black">Gift Guide</a>
       </Link>
-      <Link href="/appointment">
-      <a href="/appointment" className="mr-4 font-color-black">Virtual Appointment</a>
-      </Link>
-    <Link href="/clean-fashion">
-      <a href="/clean-fashion" className="mr-4 font-color-black">Sustainability</a>
-      </Link>
-            <Link href="/about">
+      <Link href="/about">
       <a href="/about" className="mr-4 font-color-black">
       About
       </a>

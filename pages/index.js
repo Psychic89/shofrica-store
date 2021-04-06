@@ -12,7 +12,7 @@ import ProductsBanner from '../components/homepage/ProductsBanner';
 const Home = () => (
   <Root transparentHeader={true}>
     <Head>
-      <title>Shofrica | Discover designer jewelry to fit your life and style</title>
+      <title>Shofrica | Everyday handmade jewelry to fit your life and style</title>
     </Head>
 
     <HeroSection />

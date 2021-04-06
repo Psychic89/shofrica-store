@@ -8,12 +8,12 @@ export default function HomeBanner() {
         className="font-size-display1 mt-5 text-center mx-auto text-uppercase"
         style={{ maxWidth: '53rem' }}
       >
-  Take the quiz, meet your stylist, try your jewelry at home, keep what you love.
+  Handmade jewelry designed to be worthy of the women who wear it
       </p>
       <div className="d-flex align-items-center justify-content-center mt-3 mb-5">
         <Link href="/about">
           <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">
-            <p className="mr-3">Take me there</p>
+            <p className="mr-3">How we do it</p>
             <img src="/icon/arrow-long-right.svg" />
           </a>
         </Link>

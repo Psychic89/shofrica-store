@@ -38,14 +38,14 @@ export default class HeroSection extends Component {
                 }}
               >
                 <p className="font-size-display5 font-family-secondary mb-4 text-center hero-header">
-                  Personalised jewelry essentials
+                  Everyday handmade jewelry
                 </p>
                 <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
-                  Curated just for you
+                  Only The Finest
                 </p>
                 <Link href="/collection">
                   <a className="d-flex align-items-center bg-transparent border border-color-white h-56 px-5 font-color-white hero-btn">
-                    Take a style quiz
+                    SHOP ALL
                   </a>
                 </Link>
               </div>
