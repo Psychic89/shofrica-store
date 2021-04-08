@@ -17,7 +17,7 @@ const About = () => (
 
   When we envisioned what we wanted Shofrica to be, we asked ourselves - what would the most amazing luxury beauty brand look like in ten years? We concluded that the future of beauty would be super clean, perform at the highest luxury level, welcome everyone who loves beauty, help people fuel their lives inside and out, be sustainable, transparent, digital-first, cruelty-free, and created by women (naturally). This is the vision behind Shofrica. We are a work in progress and a brand in motion.
 
-  Developed through Mulinge Mutua's unique perspective, these are the products we felt were missing from your makeup bag — cleanly formulated, high performance beauty solutions for the modern individual who lives life on-the-move and to the fullest. <a href="https://shofrica.com/" target="_blank" className="cjs-link" rel="noopener noreferrer">shofrica.com</a>.
+  Developed through Mulinge Mutua's unique perspective, these are the products we felt were missing from your makeup bag — cleanly formulated, high performance beauty solutions for the modern individual who lives life on-the-move and to the fullest.
               </h4>
             </div>
           </div>
@@ -25,7 +25,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/cjs-illustration.jpg" alt="Commerce.js illustration"/>
+              <img src="/packaging-illustration.jpg" alt="Commerce.js illustration"/>
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/netlify-illustration.jpg" alt="Netlify illustration"/>
+              <img src="/design-illustration.jpg" alt="Netlify illustration"/>
             </div>
           </div>
         </div>
@@ -47,7 +47,7 @@ const About = () => (
   OUR DESIGNS
             </h3>
             <h4 className="font-size-subheader mb-4">
-              Mulinge Mutua launched his eponymous fashion label in 2015, growing it from a small capsule collection into a global brand with flagship boutiques in Berlin and Frankfurt. In fall 2016, Mulinge Mutua expanded his focus to beauty with a makeup collaboration with Sita Harries. The collection was a success and a second followed the next year. It was during this time that Mulinge Mutua met Sarah Creal, then an Estée Lauder executive. Working together, the two discovered a shared beauty philosophy and passion for clean products with luxurious ingredients. In 2019, they teamed up to create Shofrica, a streamlined collection of clean, high performance products.
+              Whether statements or staples, all our designs begins as pencil. We start by sketching the details of everyday, giving each piece the same originality and individuality of our women. Drawing from many muses across Frankfurt — rings modeled after the arches of the Eiserner Steg, earrings inspired by padlocks, and the never-ending movement of the city — We take design inspiration from real, everyday life and sets the stage for adding a little shine.
             </h4>
           </div>
         </div>
@@ -61,7 +61,13 @@ const About = () => (
   OUR QUALITY
 </h3>
             <h4 className="font-size-subheader mb-4">
-            Sita Harries is a long-time beauty executive with a track record of building some of the world’s top brands. Starting her career at the Clinique counter in Bergdorf Goodman, she quickly rose through the industry, developing and marketing such brands as Prada Beauty, Ralph Lauren Fragrances, Bobbi Brown Cosmetics, Tom Ford and most recently, the Mulinge Mutua x Estée Lauder collaboration. Together with Mulinge Mutua, she is finally creating her own female-founded beauty brand built on the twin principles she most cares about: clean beauty and luxury experience.
+  Each of our pieces is designed and handmade using ethically sourced and sustainably made brass and 18K gold-plated vermeil. We maintain a rigorous process to ensure that each piece lasts a lifetime.
+
+  So we go the extra mile, coating our vermeil in 18K gold (instead of the industry standard of 10K gold) and finish with a protective layer of top coat.
+
+  We also look a little closer by meticulously sourcing our gemstones, handpicking, and lab-testing them to ensure ideal cut, color, and quality clarity.
+
+  Last but not least, our seventh generation craftsmen work a little harder here while we oversee every step of the process.
             </h4>
           </div>
         </div>
@@ -69,7 +75,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/github-illustration.jpg" alt="GitHub illustration"/>
+              <img src="/quality-illustration.jpg" alt="GitHub illustration"/>
             </div>
           </div>
         </div>
@@ -80,7 +86,7 @@ const About = () => (
   <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/netlify-illustration.jpg" alt="Netlify illustration"/>
+  <img src="/culture-illustration.jpg" alt="Netlify illustration"/>
   </div>
   </div>
   </div>
@@ -91,7 +97,7 @@ const About = () => (
   OUR CULTURE
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Mulinge Mutua launched his eponymous fashion label in 2015, growing it from a small capsule collection into a global brand with flagship boutiques in Berlin and Frankfurt. In fall 2016, Mulinge Mutua expanded his focus to beauty with a makeup collaboration with Sita Harries. The collection was a success and a second followed the next year. It was during this time that Mulinge Mutua met Sarah Creal, then an Estée Lauder executive. Working together, the two discovered a shared beauty philosophy and passion for clean products with luxurious ingredients. In 2019, they teamed up to create Shofrica, a streamlined collection of clean, high performance products.
+  At Shofrica, diversity has always been at the core of our values. We were founded in 2015 with a mission to give equal opportunities to all, regardless of race, ethnicity, sexual orientation, or background. While we always strive to be transparent, we want to provide more information with you, our community, on just how serious we take this.
 </h4>
 </div>
 </div>
@@ -105,7 +111,7 @@ const About = () => (
   OUR SOURCING
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Inspired by discovery, the team behind Shofrica have sought out some of the most talented craftspeople in jewelry. We are a people-first ethical jewelry brand and tech-powered manufacturing platform built to connect artisans in Kenya with the global market. We use mobile technology to connect marginalized Kenyan artisans directly to the global marketplace. Unlike centralized factory production, we use technology to enable the human workforce.
+  We design in Frankfurt and work with independent craftsmen in Kenya who lias directly to our team and global network. By adapting to digital transformation, we challenge traditional manufacturing models by combining traditional craft methods with 3D Printing for commercial production. Our microfactories are small to medium-scale, highly automated, technologically-advanced manufacturing setups posessing a wide range of processes. By democratizing how products are manufactured, Shofrica enables anyone from anywhere to get something made efficiently and cost-effectively, while at the same time connecting artisans in the developing world to the global market.
 </h4>
 </div>
 </div>
@@ -113,7 +119,7 @@ const About = () => (
 <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/github-illustration.jpg" alt="GitHub illustration"/>
+  <img src="/sourcing-illustration.jpg" alt="GitHub illustration"/>
   </div>
   </div>
   </div>
@@ -124,7 +130,7 @@ const About = () => (
   <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/netlify-illustration.jpg" alt="Netlify illustration"/>
+  <img src="/ethics-illustration.jpg" alt="Netlify illustration"/>
   </div>
   </div>
   </div>
@@ -135,7 +141,13 @@ const About = () => (
   OUR ETHICS
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Mulinge Mutua launched his eponymous fashion label in 2015, growing it from a small capsule collection into a global brand with flagship boutiques in Berlin and Frankfurt. In fall 2016, Mulinge Mutua expanded his focus to beauty with a makeup collaboration with Sita Harries. The collection was a success and a second followed the next year. It was during this time that Mulinge Mutua met Sarah Creal, then an Estée Lauder executive. Working together, the two discovered a shared beauty philosophy and passion for clean products with luxurious ingredients. In 2019, they teamed up to create Shofrica, a streamlined collection of clean, high performance products.
+  We only use materials that keep our consciences clear. There are a lot of ugly practices in jewelry and we're out to change that.
+
+So we began by only using 100% recycled brass. Recycled brass is an amazing resource, a great alternative to gold able to be reused without creating any environmental decay.
+
+  Going a step further we decided to take the same approach with our gemstones. We track every single one from mine to workshop, additionally insisting that our mines offer fair pay and respect local indigenous communities.
+
+  Jewelry with strong ethics—for all your antics.
 </h4>
 </div>
 </div>
@@ -150,7 +162,9 @@ const About = () => (
   OUR PRICES
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Sita Harries is a long-time beauty executive with a track record of building some of the world’s top brands. Starting her career at the Clinique counter in Bergdorf Goodman, she quickly rose through the industry, developing and marketing such brands as Prada Beauty, Ralph Lauren Fragrances, Bobbi Brown Cosmetics, Tom Ford and most recently, the Mulinge Mutua x Estée Lauder collaboration. Together with Mulinge Mutua, she is finally creating her own female-founded beauty brand built on the twin principles she most cares about: clean beauty and luxury experience.
+  Handmade jewelry deserves fair prices. And so do you.
+
+  Because of our innovative and lean manufacturing model, we eliminate unnecessary middlemen, and stay away from insane markups.
 </h4>
 </div>
 </div>
@@ -158,7 +172,7 @@ const About = () => (
 <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/github-illustration.jpg" alt="GitHub illustration"/>
+  <img src="/prices-illustration.jpg" alt="GitHub illustration"/>
   </div>
   </div>
   </div>
@@ -169,7 +183,7 @@ const About = () => (
   <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/netlify-illustration.jpg" alt="Netlify illustration"/>
+  <img src="/impact1-illustration.jpg" alt="Netlify illustration"/>
   </div>
   </div>
   </div>
@@ -177,10 +191,10 @@ const About = () => (
   <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
   <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
   <h3 className="font-size-header mb-4">
-  OUR GIVING
+  OUR IMPACT
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Mulinge Mutua launched his eponymous fashion label in 2015, growing it from a small capsule collection into a global brand with flagship boutiques in Berlin and Frankfurt. In fall 2016, Mulinge Mutua expanded his focus to beauty with a makeup collaboration with Sita Harries. The collection was a success and a second followed the next year. It was during this time that Mulinge Mutua met Sarah Creal, then an Estée Lauder executive. Working together, the two discovered a shared beauty philosophy and passion for clean products with luxurious ingredients. In 2019, they teamed up to create Shofrica, a streamlined collection of clean, high performance products.
+  Our new technology approach directly links virtual simulation with production and thereby points out the way to the future of manufacturing jewelry. The MICROFACTORY saves time, reduces material consumption and increases the quality of design, especially with complex designs. As a result, artisans working with Shofrica earn nearly 5X more than an average artisan workshop.
 </h4>
 </div>
 </div>
@@ -191,10 +205,16 @@ const About = () => (
   <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
   <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
   <h3 className="font-size-header mb-4">
-  OUR FOUNDER
+  BE PART OF THE STORY
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Sita Harries is a long-time beauty executive with a track record of building some of the world’s top brands. Starting her career at the Clinique counter in Bergdorf Goodman, she quickly rose through the industry, developing and marketing such brands as Prada Beauty, Ralph Lauren Fragrances, Bobbi Brown Cosmetics, Tom Ford and most recently, the Mulinge Mutua x Estée Lauder collaboration. Together with Mulinge Mutua, she is finally creating her own female-founded beauty brand built on the twin principles she most cares about: clean beauty and luxury experience.
+  Shofrica is an ode to many meanings of being strong. We’re inspired by you—powerful women who cease to be defined by the status quo.
+
+  Women who create, innovate and inspire, every day, to build a better, more brilliant future for themselves, their families, and their communities.
+
+  Through a continued exploration of form, materiality, and artisan techniques, we create jewelry collections comprised of evolved classics and subtle statements to celebrate your uninhibited self-expression.
+
+  It’s you + us, together.
 </h4>
 </div>
 </div>
@@ -202,7 +222,7 @@ const About = () => (
 <div className="col-12 col-lg-6">
   <div className="about-image h-100">
   <div className="d-flex align-items-center justify-content-center h-100">
-  <img src="/github-illustration.jpg" alt="GitHub illustration"/>
+  <img src="/story-illustration.jpg" alt="GitHub illustration"/>
   </div>
   </div>
   </div>

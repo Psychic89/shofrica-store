@@ -16,7 +16,7 @@ const About = () => (
   The best selling pieces for friends, partners and well—everyone.
               </h4>
   <div className="mt-3">
-  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store" target="_blank">
+  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="/collection">
   SHOP NOW
 </a>
 </div>
@@ -26,7 +26,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/packaging-illustration.jpg" alt="Commerce.js illustration"/>
+              <img src="/most-gifted.jpg" alt="Commerce.js illustration"/>
             </div>
           </div>
         </div>
@@ -50,7 +50,7 @@ const About = () => (
             <h4 className="font-size-subheader mb-4">
   The ultimate luxury gift that wins every time and lasts forever. </h4>
             <div className="mt-3">
-              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store" target="_blank">
+              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="/collection">
                 SHOP NOW
               </a>
             </div>
@@ -69,7 +69,7 @@ const About = () => (
   The best selling pieces for friends, partners and well—everyone.
             </h4>
 <div className="mt-3">
-  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store" target="_blank">
+  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="/collection">
   SHOP NOW
 </a>
 </div>
