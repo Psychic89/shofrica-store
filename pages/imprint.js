@@ -15,7 +15,7 @@ const About = () => (
               <h4 className="font-size-subheader mb-4"> Shofrica e.K.
               </h4>
               <h4 className="font-size-subheader mb-4"> Taunusstraße 66 </h4>
-              <h4 className="font-size-subheader mb-4"> 63067 Offenbach </h4>
+              <h4 className="font-size-subheader mb-4"> 63067 Offenbach am Main </h4>
 <h4 className="font-size-subheader mb-4"> Telefon: +4917621483866 </h4>
 <h4 className="font-size-subheader mb-4"> Email: support(at)shofrica.com </h4>
 <h4 className="font-size-subheader mb-4"> Geschäftsführung: Robert Mutua </h4>
