@@ -106,7 +106,7 @@ export default class ShippingForm extends Component {
                 name="shipping[street]"
                 value={shippingStreet}
                 className="rounded-0 w-100"
-                placeholder="House number, steet, etc."
+                placeholder="House number, street, etc."
               />
             </label>
           </div>
@@ -119,7 +119,7 @@ export default class ShippingForm extends Component {
                 name="street2"
                 value={shippingStreet2}
                 className="rounded-0 w-100"
-                placeholder="Appartment, buero, etc."
+                placeholder="Apartment, Buero, etc."
               />
             </label>
           </div>
