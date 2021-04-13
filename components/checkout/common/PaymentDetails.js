@@ -140,7 +140,7 @@ export default class PaymentDetails extends Component {
             checked={selectedGateway === 'stripe'}
             className="mr-3"
           />
-          <p className="font-weight-medium">Credit/debit card (via Stripe)</p>
+          <p className="font-weight-medium">Credit/debit card</p>
         </label>
 
         { selectedGateway === 'stripe' && (
