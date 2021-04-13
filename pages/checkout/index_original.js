@@ -28,30 +28,30 @@ class CheckoutPage extends Component {
     super(props);
 
     this.state = {
-      deliveryCountry: 'CA',
-      deliveryRegion: 'BC',
+      deliveryCountry: '',
+      deliveryRegion: '',
 
       // string property names to conveniently identify inputs related to commerce.js validation errors
       // e.g error { param: "shipping[name]"}
-      firstName: 'John',
-      lastName: 'Doe',
-      'customer[email]': 'john@doe.com',
+      firstName: '',
+      lastName: '',
+      'customer[email]': '',
       'customer[id]': null,
-      'shipping[name]': 'John Doe',
-      'shipping[street]': '318 Homer Street',
+      'shipping[name]': '',
+      'shipping[street]': '',
       street2: '',
-      'shipping[town_city]': 'Vancouver',
-      'shipping[postal_zip_code]': 'V6B 2V2',
+      'shipping[town_city]': '',
+      'shipping[postal_zip_code]': '',
       orderNotes: '',
       countries: {},
       subdivisions: {},
 
       'fulfillment[shipping_method]': '',
-      cardNumber: ccFormat('4242424242424242'),
-      expMonth: '11',
-      expYear: '22',
-      cvc: '123',
-      billingPostalZipcode: 'V6B 2V2',
+      cardNumber: ccFormat(''),
+      expMonth: '',
+      expYear: '',
+      cvc: '',
+      billingPostalZipcode: '',
 
       errors: {
         'fulfillment[shipping_method]': null,
@@ -63,7 +63,7 @@ class CheckoutPage extends Component {
         'shipping[postal_zip_code]': null
       },
 
-      discountCode: 'CUSTOMCOMMERCE',
+      discountCode: '',
 
       selectedGateway: 'test_gateway',
       loading: false,
