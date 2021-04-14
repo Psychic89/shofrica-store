@@ -10,7 +10,7 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
             <div className="h-100 d-flex flex-column py-5 px-4 px-sm-5 justify-content-center">
               <h2 className="font-size-header mb-4">
-  Luxury Performance, Clean Jewelry
+  Luxury Performance, Clean Fashion
               </h2>
               <h4 className="font-size-subheader mb-4">
   Luxury beauty is changing. Superior craftsmanship alone is no longer enough — beauty brands must also be agents of change. The ingredients we put in our formulations matter, because clean products free from harmful toxins should be a universal standard. Our impact on the environment matters, because our world is precious. Making products for everyone matters, because we’re only as good as we are inclusive. It’s worth taking business risks to do what’s right. That’s why as a beauty brand in motion, we will continuously evolve, improve and challenge ourselves to be better. <a href="https://shofrica.com/" target="_blank" className="cjs-link" rel="noopener noreferrer">shofrica.com</a>.
