@@ -63,7 +63,7 @@ class CheckoutPage extends Component {
         'shipping[postal_zip_code]': null
       },
 
-      discountCode: null,
+      discountCode: '',
 
       selectedGateway: 'test_gateway',
       loading: false,
