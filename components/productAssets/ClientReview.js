@@ -7,7 +7,7 @@ const reviews = [
     stars: '5',
     title: 'Beautiful products',
     description: 'I am in love with this company. I almost always buy online, but the customer service has always been amazing, and the whole business model is awesome. The designs are simple, modern, and sleek. The quality is great, and the prices are pretty fair considering competitors. ',
-    reviewBy: 'Sam C.',
+    reviewBy: 'Laura M.',
     date: 'April, 2021'
   },
   {
