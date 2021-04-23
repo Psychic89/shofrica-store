@@ -111,7 +111,7 @@ const About = () => (
   OUR SOURCING
 </h3>
 <h4 className="font-size-subheader mb-4">
-  We design in Frankfurt and work with independent craftsmen in Kenya who lias directly to our team and global network. By adapting to digital transformation, we challenge traditional manufacturing models by combining traditional craft methods with 3D Printing for commercial production. Our microfactories are small to medium-scale, highly automated, technologically-advanced manufacturing setups posessing a wide range of processes. By democratizing how products are manufactured, Shofrica enables anyone from anywhere to get something made efficiently and cost-effectively, while at the same time connecting artisans in the developing world to the global market.
+  We design in Frankfurt and work with independent craftsmen in Kenya who lias directly to our team and global network. By adapting to digital transformation, we challenge traditional manufacturing models by combining traditional craft methods with 3D Printing for commercial production. Our microfactories are small to medium-scale manufacturing setups posessing a wide range of processes. By democratizing how products are manufactured, Shofrica enables anyone from anywhere to get something made efficiently and cost-effectively, while at the same time connecting artisans in the developing world to the global market.
 </h4>
 </div>
 </div>
@@ -208,13 +208,7 @@ So we began by only using 100% recycled brass. Recycled brass is an amazing reso
   BE PART OF THE STORY
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Shofrica is an ode to many meanings of being strong. We’re inspired by you—powerful women who cease to be defined by the status quo.
-
-  Women who create, innovate and inspire, every day, to build a better, more brilliant future for themselves, their families, and their communities.
-
-  Through a continued exploration of form, materiality, and artisan techniques, we create jewelry collections comprised of evolved classics and subtle statements to celebrate your uninhibited self-expression.
-
-  It’s you + us, together.
+  Shofrica is a community of people with a shared passion for sustainability in fashion. We are different because we choose to. We are inspired by people who take a stand on issues, and we choose to lead by example. Together, we can change the world.
 </h4>
 </div>
 </div>
