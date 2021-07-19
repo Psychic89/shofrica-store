@@ -5,32 +5,32 @@ import Modal from '../common/atoms/Modal';
 const reviews = [
   {
     stars: '5',
-    title: 'Beautiful products',
-    description: 'I am in love with this company. I almost always buy online, but the customer service has always been amazing, and the whole business model is awesome. The designs are simple, modern, and sleek. The quality is great, and the prices are pretty fair considering competitors. ',
-    reviewBy: 'Sam C.',
-    date: 'April, 2021'
+    title: 'Perfect',
+    description: 'Great fit and feel. They elevate lounging to the next level!',
+    reviewBy: 'Heidi C.',
+    date: 'December, 2019'
   },
   {
-    stars: '4.5',
-    title: 'Good quality!',
+    stars: '3.5',
+    title: 'So comfortable!',
     description:
-      'Great fit and I get loads of compliments! Great products, fast delivery. I recommend Shofrica.',
-    reviewBy: 'Patricia B.',
-    date: 'April, 2021'
+      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
+    reviewBy: 'Heidi C.',
+    date: 'December, 2019'
   },
   {
     stars: '4',
-    title: 'Expectations exceeded',
+    title: 'Comfy but thin',
     description:
-      'It is always a risk ordering jewelry online but I smile everytime I look at my ring: perfect fit and size.',
-    reviewBy: 'Danielle L.',
+      'Comfortable but kinda thin for a pant. I typically wear a 32/33 pant and had to size up to XL for these to not fit like a legging. Have been wearing pretty solid for a month of so and there\'s some pilling, but not a lot. Good price for OK product.',
+    reviewBy: 'Heidi C.',
     date: 'December, 2019'
   },
   {
     stars: '5',
     title: 'So comfortable!',
     description:
-      'Absolutely in love with this company. The customer service is down right amazing. The products are beautiful. I just ordered my third piece from them; can\'t get enough!',
+      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
     reviewBy: 'Heidi C.',
     date: 'December, 2019'
   }
@@ -90,7 +90,7 @@ export default class ClientReview extends Component {
           <div className="col-12 col-lg-10 offset-lg-1">
             <div className="d-flex justify-content-between flex-column flex-sm-row align-items-sm-center mb-3">
               <p className="font-size-title font-weight-medium mb-2 mb-sm-0">
-                4.5 stars from 10 reviews
+                4.3 stars from 10 reviews
               </p>
             </div>
             <ReviewList reviews={reviews}>
