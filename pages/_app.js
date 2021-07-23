@@ -8,6 +8,12 @@ import { connect } from 'react-redux';
 import commerce from '../lib/commerce';
 import { loadStripe } from '@stripe/stripe-js';
 import { setCustomer } from '../store/actions/authenticateActions';
+import TagManager from 'react-gtm-module';
+
+
+const tagManagerArgs = {
+  gtmId: 'GTM-TJZNX9W'
+}
 
 class MyApp extends App {
   constructor(props) {
@@ -23,6 +29,7 @@ class MyApp extends App {
   stripePromise = null;
 
   componentDidMount() {
+    TagManager.initialize(tagManagerArgs)
     this.props.setCustomer();
   }
 
