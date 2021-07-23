@@ -12,7 +12,7 @@ import TagManager from 'react-gtm-module';
 
 
 const tagManagerArgs = {
-  gtmId: 'GTM-TJZNX9W'
+  gtmId: 'GTM-KVH57B3'
 }
 
 class MyApp extends App {
