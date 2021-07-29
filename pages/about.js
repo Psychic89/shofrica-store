@@ -17,7 +17,7 @@ const About = () => (
 
   When we envisioned what we wanted Shofrica to be, we asked ourselves - what would the most amazing luxury jewelry brand look like in ten years? We concluded that the future of jewelry would be handmade, perform at the highest luxury level, welcome everyone who loves jewelry, help people fuel their lives inside and out, be sustainable, transparent, digital-first and cruelty-free. This is the vision behind Shofrica. We are a work in progress and a brand in motion.
 
-  Developed through Mulinge Mutua's unique perspective, these are the products we felt were missing from your jewelry box — standout pieces that transcend seasons for the modern individual who lives life on-the-move and to the fullest.
+  Developed through a unique perspective, these are the products we felt were missing from your jewelry box — standout pieces that transcend seasons for the modern individual who lives life on-the-move and to the fullest.
               </h4>
             </div>
           </div>
