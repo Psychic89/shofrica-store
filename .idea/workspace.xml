@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3e7e44-922a-4b25-97fc-efc947ea5e38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/homepage/HomeBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/homepage/HomeBanner.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -241,18 +240,18 @@
       <workItem from="1627066242347" duration="4088000" />
       <workItem from="1627581805628" duration="11000" />
       <workItem from="1627589728200" duration="5870000" />
-      <workItem from="1627909407567" duration="22000" />
+      <workItem from="1627909407567" duration="796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17392000" />
+    <option name="totallyTimeSpent" value="18166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="820" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -276,7 +275,7 @@
       <window_info anchor="bottom" id="Logcat" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.2797784" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.2797784" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
